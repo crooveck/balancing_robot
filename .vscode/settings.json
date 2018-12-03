@@ -1,0 +1,11 @@
+{
+  "terminal.integrated.env.linux": {
+    "PATH": "/home/p.tomaszews2/.platformio/penv/bin:/home/p.tomaszews2/.platformio/penv:/home/p.tomaszews2/bin:/home/p.tomaszews2/.local/bin:/opt/blackduck/protexIP/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin:/usr/lib/jvm/java-8-oracle/bin:/usr/lib/jvm/java-8-oracle/db/bin:/usr/lib/jvm/java-8-oracle/jre/bin",
+    "PLATFORMIO_CALLER": "vscode"
+  },
+  "files.associations": {
+    "algorithm": "cpp",
+    "array": "cpp",
+    "initializer_list": "cpp"
+  }
+}
